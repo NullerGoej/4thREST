@@ -1,0 +1,1 @@
+screen -dmSL flask bash -c 'flask run --host=0.0.0.0 --port=5000'
